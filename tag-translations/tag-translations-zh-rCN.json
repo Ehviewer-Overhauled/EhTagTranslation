@@ -1335,7 +1335,7 @@
 "barlun": "ばーるん",
 "kiyomiya ryo": "清宫凉",
 "higata": "HIGATA",
-"outou chieri": "樱桃千绘里 | 無洗米",
+"outou chieri": "无洗米",
 "hoshizaki hikaru": "星崎ひかる",
 "shinoda sanjuurou": "篠田参重郎",
 "mimi mimizu": "実々みみず",
@@ -1567,7 +1567,7 @@
 "itachi": "いたち",
 "aya shachou": "彩社长",
 "fukumaaya": "ふくまーや",
-"higashide irodori": "東出イロドリ",
+"higashide irodori": "东出イロドリ",
 "hiura r": "火浦R",
 "karube guri": "軽部ぐり",
 "kusatsu terunyo": "草津てるにょ",
@@ -2438,7 +2438,7 @@
 "amagasa ikuta": "雨暈郁太",
 "sukesaburou": "助三郎",
 "jiraiya": "児雷也",
-"kuromotokun": "黒本君",
+"kuromotokun": "黑本君",
 "gomano lio": "胡麻乃りお",
 "shiratama moti": "白玉もち",
 "shiratama yomogi": "しらたま よもぎ",
@@ -2901,7 +2901,7 @@
 "kitahara aki": "北原亜希",
 "satsuki itsuka": "五月五日",
 "kawaraya": "瓦爺",
-"kamizuki shiki": "守月史貴",
+"kamizuki shiki": "守月史贵",
 "ponekusan": "ポネクサン",
 "akasa tanu": "赤佐たぬ",
 "takeya": "竹や",
@@ -3098,7 +3098,7 @@
 "horikawa gorou": "堀川悟郎",
 "kandenki": "感电器",
 "tsukimi ruko": "月見ルコ",
-"kameyama shiruko": "亀山しるこ",
+"kameyama shiruko": "龟山しるこ",
 "takimoto yukari": "瀧本ゆかり",
 "sakamoto kafka": "阪本KAFKA",
 "itsutsuse": "古川五势（いつつせ）",
@@ -3137,7 +3137,7 @@
 "kagura nanaki": "神楽七姫",
 "nozomi tsubame": "希望つばめ",
 "saba satoru": "佐波サトル",
-"nagashiro rouge": "長代ルージュ",
+"nagashiro rouge": "长代ルージュ",
 "kuroiwa menou": "黑岩玛瑙",
 "isorashi": "五十嵐唱乃",
 "minato fumi": "三巷文",
@@ -12371,7 +12371,15 @@
 "tyontyon": "てょんてょん",
 "soejima shigenori": "副岛成记",
 "chisunosuke": "ちすの助",
-"sakurayashiki tonkotsu": "桜屋敷とんこつ"
+"sakurayashiki tonkotsu": "桜屋敷とんこつ",
+"fukumoto masahisa": "福本真久",
+"signo mandara": "シグノマンダラ",
+"tobiume sayu": "飞梅さゆ",
+"omitsu": "えびおみつ",
+"hangetsuban sonshou": "半月板损伤",
+"tottotonero tarou.": "とっととねろ太郎。",
+"nakagomi": "中込",
+"d.": "D."
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -16494,7 +16502,10 @@
 "ookanehira": "大包平",
 "uguisumaru": "莺丸",
 "sovetskaya rossiya": "苏维埃罗西亚",
-"faruzan": "珐露珊"
+"faruzan": "珐露珊",
+"plana": "普拉娜",
+"rio tsukatsuki": "调月莉音",
+"kikuri hiroi": "广井菊里"
 },
 "f": {
 "age progression": "年龄增长",
@@ -26408,7 +26419,7 @@
 "ponkotuna potunoya": "ぽんこつなぽつの屋",
 "ponpon-o": "ぽんぽんお",
 "ponte": "Ponte",
-"pony farm": "仔馬牧場",
+"pony farm": "仔马牧场",
 "pony roll": "PONY ROLL",
 "ponyfarm": "ポニー牧場",
 "ponys bridle": "PONY'S BRIDLE",
@@ -29603,7 +29614,12 @@
 "marshmalloya": "ましゅまろや",
 "nanadou": "七堂",
 "ayawasuca": "文忘蚊",
-"sugomori bird": "巣ごもりバード"
+"sugomori bird": "巣ごもりバード",
+"gensou pump": "幻想ポンプ",
+"elizabeth collar": "エリザベスカラー",
+"toropucchi": "とろぷっち",
+"satou mitsu": "さとうみつ",
+"mannen dokodoko dondodoko": "まんねんドコドコドンドドコ"
 },
 "l": {
 "afrikaans": "南非语",
@@ -32368,7 +32384,8 @@
 "mar": "MÄR魔兵传奇",
 "kinsou no vermeil": "金装的维尔梅",
 "ganbare goemon": "大盗五右卫门",
-"jikkyou powerful pro yakyuu": "实况力量棒球系列"
+"jikkyou powerful pro yakyuu": "实况力量棒球系列",
+"dolphin wave": "洶湧海豚"
 },
 "r": {
 "doujinshi": "同人志",
