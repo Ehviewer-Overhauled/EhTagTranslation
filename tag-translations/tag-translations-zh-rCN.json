@@ -1490,7 +1490,7 @@
 "mizukoshi mayu": "水越まゆ",
 "mitaonsya": "MITAONSYA",
 "tokumi yuiko": "笃见唯子",
-"dantetsu": "断铁",
+"dantetsu": "断铁（干支門三十四，〇タ）",
 "inuboshi": "犬星",
 "saitou tsukasa": "さいとうつかさ",
 "shinkaida tetsuyarou": "新贝田铁也郎",
@@ -10848,7 +10848,7 @@
 "ting": "Ting",
 "tipo": "ティーポ",
 "tira": "Tira",
-"tirotata": "Tirotata",
+"tirotata": "ちろたた",
 "titiduki": "チチヅキ",
 "tiv": "Tiv",
 "tj-type1": "TJ-type1",
@@ -12388,7 +12388,12 @@
 "shiina shinya": "椎名深夜",
 "touketsu": "卜ウケツ",
 "hoshina meito": "星名めいと",
-"nanonanno": "なのなんの"
+"nanonanno": "なのなんの",
+"kuroseimu": "クロセイム",
+"teppo": "鉄歩",
+"mochio": "白蜜モチ",
+"kitagawa zayaku": "北川ざやく",
+"saito tsubame": "齋藤燕"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -32445,7 +32450,8 @@
 "blue reflection": "蔚蓝反射（幻舞少女之剑）",
 "fumikiri jikan": "平交道时间",
 "all out": "ALL OUT!!",
-"kuma miko": "熊巫女"
+"kuma miko": "熊巫女",
+"tsuki ni yorisou otome no sahou": "近月少女的礼仪"
 },
 "r": {
 "doujinshi": "同人志",
