@@ -1123,7 +1123,7 @@
 "karatakewari": "からたけわり",
 "mifune seijirou": "三船诚二郎",
 "natsu no oyatsu": "夏のおやつ",
-"homura subaru": "焔すばる",
+"homura subaru": "焰すばる",
 "dakouin saburou": "蛇光院三郎",
 "gura nyuutou": "ぐら乳頭",
 "inomaru": "いのまる",
@@ -9167,7 +9167,7 @@
 "ozawa aoi": "オザワアオイ",
 "ozawa hiyori": "小沢ひより",
 "ozawa manabu": "緒沢まなぶ",
-"ozawa reido": "小澤零人",
+"ozawa reido": "小泽零人",
 "ozawa you": "小沢悠",
 "ozora ituki": "大空樹",
 "ozuno mahou": "緒図乃真朋",
@@ -10115,7 +10115,7 @@
 "shirasu reiji": "白州礼二",
 "shirasu youichi": "白須遙一",
 "shiratama azuki": "白玉アズキ",
-"shiratama dango": "白玉団子",
+"shiratama dango": "白玉团子",
 "shiratama1gou": "白玉一号",
 "shiratsuki shiori": "白月しおり",
 "shirihito": "尻人",
@@ -12302,7 +12302,7 @@
 "kuroni bokujou": "クロニ",
 "himiya zyo-zu": "比宮じょーず",
 "hinageshi": "雏罂粟",
-"unknown showhey": "馬島祥平",
+"unknown showhey": "马岛祥平",
 "saito naoki": "斋藤直葵",
 "yoshiku": "四々九",
 "kakage": "かかげ",
@@ -12394,7 +12394,11 @@
 "mochio": "白蜜モチ",
 "kitagawa zayaku": "北川ざやく",
 "saito tsubame": "齋藤燕",
-"aohonoo": "蒼炎"
+"aohonoo": "蒼炎",
+"tamayura banko": "玉ぼん",
+"tamaki nao": "玉姫なお",
+"inonaka kawazu": "ノ中かわず",
+"saiogauma": "塞翁が马"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -16546,7 +16550,9 @@
 "female protagonist": "汐见琴音",
 "makoto yuuki": "结城理",
 "asuka kurashina": "仓科明日香",
-"ulrich von hutten": "乌尔里希·冯·胡滕"
+"ulrich von hutten": "乌尔里希·冯·胡滕",
+"joey": "乔伊",
+"feng min": "凤敏"
 },
 "f": {
 "age progression": "年龄增长",
@@ -27243,7 +27249,7 @@
 "seiyou tanka": "西洋短歌",
 "seizousha": "性造社",
 "sekai chizu wa chi no ato": "世界地図は血の跡",
-"sekai kakumei club": "世界革命倶楽部",
+"sekai kakumei club": "世界革命俱乐部",
 "sekai no hate ni hanataba o.": "世界の果てに花束を。",
 "sekai no tomizawa": "世界のTOMIZAWA",
 "sekai saiko": "世界最古",
@@ -27579,7 +27585,7 @@
 "siop": "単一統合作戦計画",
 "sippo-soft": "SIPPO-SOFT",
 "siratama nikukyuu": "しらたま肉球",
-"siratamadon": "白玉丼",
+"siratamadon": "白玉井",
 "sirius.": "SIRIUS.",
 "sirojio": "白塩",
 "siropome": "しろぽめ",
@@ -29587,7 +29593,7 @@
 "kakuzatou": "角砂糖",
 "gyuunyuu shoujo seisakusho": "牛乳少女制作所",
 "abukumadou": "阿武隈堂",
-"hakutamayu": "白玉湯",
+"hakutamayu": "白玉汤",
 "nodomaru biyori": "のどまる日和",
 "itabira yasai": "イタビラ野菜",
 "maria planet": "マリアプラネット",
@@ -29665,7 +29671,9 @@
 "shironekoya": "白猫屋",
 "mugen karaage": "無限からあげ",
 "yonaka works": "ヨナカWorks",
-"touketsu shamen": "卜ウケツ斜面"
+"touketsu shamen": "卜ウケツ斜面",
+"koutetsu shabon dama": "钢铁しゃぼん玉",
+"hogeramu": "ほげらむ"
 },
 "l": {
 "afrikaans": "南非语",
@@ -32454,7 +32462,8 @@
 "all out": "ALL OUT!!",
 "kuma miko": "熊巫女",
 "tsuki ni yorisou otome no sahou": "近月少女的礼仪",
-"witchs weapon": "魔女兵器"
+"witchs weapon": "魔女兵器",
+"dead by daylight": "黎明杀机"
 },
 "r": {
 "doujinshi": "同人志",
