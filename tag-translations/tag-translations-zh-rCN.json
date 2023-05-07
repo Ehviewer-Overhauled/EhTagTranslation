@@ -3401,7 +3401,7 @@
 "ayame iro": "絢芽いろ",
 "kaiduka akuta": "貝塚芥",
 "katsuten": "かつてん",
-"waterring": "水之色",
+"waterring": "WaterRing",
 "gwegwe": "gweda",
 "nehani": "ねはに",
 "juukyuu": "じゅうきゅう",
@@ -12402,7 +12402,8 @@
 "usui yui": "碓氷汐泉",
 "raiou": "raiou",
 "yokoyari mengo": "横枪萌果",
-"alexanderdinh": "Alexanderdinh"
+"alexanderdinh": "Alexanderdinh",
+"toubaru rairu": "桃原らいる"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -16077,7 +16078,7 @@
 "gavial": "嘉维尔",
 "vigna": "红豆",
 "glaucus": "格劳克斯",
-"vermeil": "红云",
+"vermeil": "红云|维尔梅",
 "ansel": "安赛尔",
 "ceylon": "锡兰",
 "sicily von claude": "西希莉·冯·克洛德",
@@ -16561,7 +16562,13 @@
 "mio naruse": "成濑澪",
 "maria naruse": "成濑万理亚",
 "frederica baumann": "法兰黛莉卡·鲍曼",
-"ai hoshino": "星野爱"
+"ai hoshino": "星野爱",
+"toki asuma": "飞鸟马时",
+"carol olston": "卡洛兒·奧爾斯頓",
+"shiroko terror": "砂狼白子",
+"dia viekone": "蒂雅·维科尼",
+"ezio auditore": "艾吉奥·奥迪托雷",
+"sofia sartor": "索菲亚·萨尔托"
 },
 "f": {
 "age progression": "年龄增长",
@@ -29683,7 +29690,8 @@
 "yonaka works": "ヨナカWorks",
 "touketsu shamen": "卜ウケツ斜面",
 "koutetsu shabon dama": "钢铁しゃぼん玉",
-"hogeramu": "ほげらむ"
+"hogeramu": "ほげらむ",
+"mizushirazu": "みずしらず"
 },
 "l": {
 "afrikaans": "南非语",
@@ -32482,7 +32490,9 @@
 "soukyuu no fafner": "苍穹之法芙娜",
 "heaven burns red": "绯染天空",
 "fire emblem engage": "火焰之纹章 结合",
-"watashi no yuri wa oshigoto desu": "我的百合乃工作是也！"
+"watashi no yuri wa oshigoto desu": "我的百合乃工作是也！",
+"sekai saikou no ansatsusha isekai kizoku ni tensei suru": "世界顶尖的暗杀者转生为异世界贵族",
+"sengoku bushouki muramasa": "战国武将姬"
 },
 "r": {
 "doujinshi": "同人志",
