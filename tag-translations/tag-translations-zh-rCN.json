@@ -338,7 +338,7 @@
 "bokujou nushi k": "牧场主K",
 "youta": "夜歌 | よう太",
 "tsumugi kyuuta": "紬きゅうた",
-"diga tsukune": "奈賀つくね",
+"minaga tsukune": "水賀つくね",
 "cha mirai": "茶みらい",
 "serizawa": "芹泽",
 "toono suika": "远野西瓜",
@@ -12436,7 +12436,14 @@
 "xiaomu": "筱牧",
 "petra": "佩城",
 "akano murasaki": "アカノムラサキ",
-"wood cube": "小木蹬子"
+"wood cube": "小木蹬子",
+"pentagon": "ぺんたごん",
+"radio sensei": "ラジオ先生",
+"suitshark": "Suitshark",
+"honashi": "Honashi",
+"hayanye r": "はやにぇR",
+"awamiku": "あわこと",
+"barakey": "バラキー"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -29823,7 +29830,8 @@
 "khaos distance": "カオス距離",
 "tohosanhun": "徒歩三分",
 "morunchi": "モルチ",
-"gutsutoma": "ぐつとま"
+"gutsutoma": "ぐつとま",
+"kaiten paradogs": "回転ParaDOGs"
 },
 "l": {
 "afrikaans": "南非语",
