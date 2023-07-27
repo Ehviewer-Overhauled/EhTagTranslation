@@ -3114,7 +3114,7 @@
 "fuyuichi monme": "冬壱もんめ",
 "momosawa": "ももさわ",
 "sangatsu sanichi": "三月さんいち",
-"konnyaku": "こんにゃく",
+"konnyaku": "蒟蒻",
 "yaminabe": "やみなべ",
 "tenjo ryuka": "天壌りゅか",
 "nekoya": "猫夜",
@@ -3159,7 +3159,7 @@
 "mashiraga aki": "猿駕アキ",
 "midori aoi": "みどり葵",
 "musha sabu": "武者サブ",
-"sanjuurou": "さんじゅうろう",
+"sanjuurou": "三十郎",
 "souji hougu": "扫除朋具",
 "uousaoh": "鱼ウサ王",
 "kuroharuto": "くろはると",
@@ -12457,7 +12457,16 @@
 "ryouta": "りょうた",
 "shijiu": "いけめる",
 "sorimachi toufu": "反町豆腐",
-"shibatora": "桃云"
+"shibatora": "柴寅",
+"cowbow": "矼房",
+"yamada kintetsu": "山田金铁",
+"kudou maimu": "九童まいむ",
+"iwamoto kuyo": "いーなん",
+"pilaf modoki": "ぴらふもどき",
+"uenosuke": "↑野介",
+"inoue makito": "井植莳人",
+"mudoochi": "むどおち",
+"mori manpei": "森万平"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -29918,7 +29927,12 @@
 "umi no sachi teishoku": "海の幸定食",
 "tennensuidousui": "天然水道水",
 "sorairo koubou": "空色工房",
-"kakuran operetta": "攪乱オペレッタ"
+"kakuran operetta": "攪乱オペレッタ",
+"hikoushiki": "飞行式",
+"toyoko daisyouten": "东横大赏典",
+"maimu maimu": "まいむ～まいむ",
+"yakimeshi modoki": "やきめしもどき",
+"nananto": "ななんと"
 },
 "l": {
 "afrikaans": "南非语",
@@ -32741,7 +32755,8 @@
 "tokyo mirage sessions fe": "幻影异闻录♯FE",
 "odin sphere": "奥丁领域",
 "ga geijutsuka art design class": "GA 艺术科美术设计班",
-"tower of fantasy": "幻塔"
+"tower of fantasy": "幻塔",
+"ase to sekken": "汗皂交香"
 },
 "r": {
 "doujinshi": "同人志",
