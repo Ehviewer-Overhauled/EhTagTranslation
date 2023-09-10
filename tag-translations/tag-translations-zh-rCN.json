@@ -935,7 +935,7 @@
 "takei ooki": "タケイオーキ",
 "azuma tesshin": "东铁神",
 "akagi asahito": "赤城あさひと",
-"benimura karu": "紅村かる",
+"benimura karu": "红村かる",
 "bota mochito": "牡丹もちと",
 "cuvie": "Cuvie",
 "hazuki yuto": "羽月ユウト",
@@ -3183,7 +3183,7 @@
 "yd": "yd",
 "azuma yuki": "东由希",
 "enokido": "エノキドォ",
-"gokubuto mayuge": "極太眉毛",
+"gokubuto mayuge": "极太眉毛",
 "hakaba": "墓場",
 "hitotsuba": "ひとつば",
 "furyouhin": "不良品",
@@ -12517,9 +12517,12 @@
 "mochimoon curry": "餅月カレン",
 "yukimochi kinako": "幸餅きなこ",
 "houraku": "HOURAKU",
-"nagatsuki misoka": "長月みそか",
+"nagatsuki misoka": "长月みそか",
 "wosushi": "をすし",
-"kiyohara hiro": "清原纮"
+"kiyohara hiro": "清原纮",
+"yakiuni": "烧きうに",
+"inui ayu": "犬井あゆ",
+"osanai shiina": "小山内しいな"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -16929,7 +16932,9 @@
 "saga": "嵯峨",
 "bagpipe": "风笛",
 "hoolheyak": "霍尔海雅",
-"dorothy": "多萝西"
+"dorothy": "多萝西",
+"daki": "堕姬",
+"professor juniper": "红豆杉博士"
 },
 "f": {
 "age progression": "年龄增长",
@@ -20636,7 +20641,7 @@
 "bad company": "ばっどかんぱにー",
 "bad end rst": "ばっどえんどRST",
 "bad friend": "BAD FRIEND",
-"bad mushrooms": "壞茸社",
+"bad mushrooms": "坏茸社",
 "badcore": "バッドコア",
 "badis badis": "バジスバジス",
 "baguri koubou": "馬栗工房",
@@ -30001,7 +30006,7 @@
 "pham": "PHAM!",
 "henry plaza": "半里プラザー",
 "shirokuroino": "白黒いの",
-"riku no kotoutei": "陸の孤島亭",
+"riku no kotoutei": "陆の孤岛亭",
 "kuniku no saku": "狗肉の策",
 "taipeijin": "台北人",
 "shinya koujou": "深夜工場",
@@ -30095,7 +30100,10 @@
 "kawaiso nanoha nukeru": "かわいそうなのは抜ける",
 "jinsei saboribu": "人生サボり部",
 "mori no michi": "森の道",
-"studio yama roman": "スタジオ山ロマン"
+"studio yama roman": "スタジオ山ロマン",
+"inu ha sakana": "犬は鱼",
+"mizukani": "みずかに",
+"one hit wonder": "ONE HIT WONDER"
 },
 "l": {
 "afrikaans": "南非语",
