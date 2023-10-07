@@ -11281,7 +11281,7 @@
 "uriboh": "ウリ坊",
 "urin": "卯林",
 "urivo": "ウリボぅ",
-"uro": "雨露",
+"uro": "ウロ(雨露?)",
 "uro-g": "Uro-G",
 "urokozuki": "ウロコヅキ",
 "uron": "うろん",
@@ -17083,7 +17083,20 @@
 "micro uzi": "微型乌兹",
 "m45": "m45",
 "m1 garand": "M1加兰德",
-"m1a1": "M1A1"
+"m1a1": "M1A1",
+"9a-91": "9A-91",
+"ameli": "阿梅利",
+"m200": "M200",
+"kar98k": "Kar98k",
+"ots-12": "OTs-12",
+"tmp": "TMP",
+"fn five-seven": "FN-57(Five-seveN)",
+"sr-3mp": "SR-3MP",
+"k5": "K5",
+"rfb": "RFB",
+"art556": "ART556",
+"florence": "芙洛伦",
+"webley": "韦伯利"
 },
 "f": {
 "age progression": "年龄增长",
@@ -30274,7 +30287,8 @@
 "minmintaro": "みんみんたろう",
 "haimitsutou": "廃蜜灯",
 "mrm lab": "MRMラボ",
-"monkees": "モンキーズ"
+"monkees": "モンキーズ",
+"jalapeno chips": "ハラペーニョチップス"
 },
 "l": {
 "afrikaans": "南非语",
