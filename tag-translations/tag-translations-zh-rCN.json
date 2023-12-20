@@ -4750,7 +4750,7 @@
 "crazy white": "クレイジーホワイト",
 "cream": "Cream",
 "creek": "CREEK",
-"crepix": "crepix",
+"crepix": "シーレ",
 "cross": "クロス",
 "crossco": "くろすこ",
 "crow": "CROW",
@@ -8477,7 +8477,7 @@
 "nanakawa roduka": "七川楼塚",
 "nanaki nana": "ナナキナナ",
 "nanaki seijyu": "七輝静樹",
-"nanako": "ナナコ",
+"nanako": "ナナコ／七子",
 "nanakoro": "七転",
 "nanakura nanane": "七座菜々音",
 "nanakusa amane": "七草天音",
@@ -12608,7 +12608,16 @@
 "imajin kouji": "イマジン孝二",
 "meisuke": "めーすけ",
 "kotobuki mairo": "寿まいろ",
-"minato yuu": "湊ゆう"
+"minato yuu": "湊ゆう",
+"ameko": "あめこ",
+"senda hisamaru": "せんだ寿丸",
+"fujiwara noa": "藤原のあ",
+"ryoutani kana": "両谷哉",
+"hoshino rao": "星野らお",
+"jankey": "ジャンキー",
+"nettsuu": "ねっつー",
+"point takashi": "みるく工房",
+"wakatake": "わかたけ"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -17277,7 +17286,17 @@
 "sayaka igarashi": "五十岚清华",
 "kiba inuzuka": "犬冢牙",
 "aang": "安昂",
-"kyouko kirigiri": "雾切响子"
+"kyouko kirigiri": "雾切响子",
+"astral": "星光体",
+"yuma tsukumo": "九十九游马",
+"kite tenjo": "天城快斗",
+"droite": "德鲁瓦（右臂）",
+"mizar": "米扎艾尔",
+"dumon": "德鲁贝",
+"ariados": "阿利多斯",
+"latias": "拉帝亚斯",
+"endministrator": "管理员",
+"perlica": "佩丽卡"
 },
 "f": {
 "age progression": "年龄增长",
@@ -30488,7 +30507,17 @@
 "sakura suishou": "桜水晶",
 "nekomimi to kuro mask": "猫耳と黒マスク",
 "champion soft": "Champion Soft",
-"dojiro books": "どじろーブックス"
+"dojiro books": "どじろーブックス",
+"alwayshp1": "いつも死にかけ",
+"shurashushushu": "しゅらしゅしゅしゅ",
+"channel zakuro": "チャンネルざくろ",
+"kitsune komachi": "きつねこまち",
+"kaitendon": "海転丼",
+"cre no monookiba": "シーレの物置場",
+"studio park": "スタジオぱーく",
+"donut church": "ドーナツ教会",
+"netsuko": "ネツ湖",
+"milkdou shoukai": "みるく堂商会"
 },
 "l": {
 "afrikaans": "南非语",
@@ -33377,7 +33406,8 @@
 "yu-gi-oh sevens": "游戏王SEVENS",
 "ore no shikabane wo koeteyuke": "跨越我的尸体",
 "puss in boots the last wish": "穿靴子的猫:最后的愿望",
-"fatal frame": "零系列"
+"fatal frame": "零系列",
+"arknights endfield": "明日方舟：终末地"
 },
 "r": {
 "doujinshi": "同人志",
