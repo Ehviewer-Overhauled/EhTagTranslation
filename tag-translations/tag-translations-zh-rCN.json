@@ -2248,7 +2248,7 @@
 "kirihara you": "桐原湧",
 "mdakoki": "M田K樹",
 "ooyoko yamaame": "大横山饴",
-"ryokuchaism": "緑茶イズム",
+"ryokuchaism": "绿茶イズム",
 "shiden akira": "しでん晶",
 "soborogo": "ソボロゴ",
 "syoukaki": "消火器",
@@ -3139,7 +3139,7 @@
 "saba satoru": "佐波サトル",
 "nagashiro rouge": "長代ルージュ",
 "kuroiwa menou": "黑岩玛瑙",
-"isorashi": "五十嵐唱乃",
+"isorashi": "五十岚唱乃",
 "minato fumi": "三巷文",
 "hashida mamoru": "桥田镇",
 "hiryuu ran": "飞龙乱",
@@ -9847,7 +9847,7 @@
 "sawaki saki": "澤木沙樹",
 "sawako": "サワコ",
 "sawamura": "澤村",
-"sawamura ao": "沢村青",
+"sawamura ao": "泽村青",
 "sawamura kina": "さわむらきな",
 "sawarano goan": "さわらの五庵",
 "sawasaki": "沢崎",
@@ -12766,7 +12766,12 @@
 "kahmasu": "かーます",
 "ginen": "銀塩",
 "saitou renji": "西東レンジ",
-"suzuro aruki": "スズロアルキ"
+"suzuro aruki": "スズロアルキ",
+"moritama": "もりたま",
+"inainaka": "不在中",
+"nizigensan": "ニジィー",
+"yaruku": "ヤルク",
+"jeattle": "ジアトー"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -15845,7 +15850,7 @@
 "meiko shiraki": "白木芽衣子",
 "luz noceda": "露丝·诺西达",
 "toph bei fong": "北方·托芙",
-"robin": "罗宾",
+"robin": "罗宾 | 知更鸟",
 "eugeo": "尤吉欧",
 "quinella": "葵妮拉",
 "makima": "玛奇玛",
@@ -17686,7 +17691,10 @@
 "karamatsu matsuno": "松野空松",
 "onpu segawa": "濑川音符",
 "doremi harukaze": "春风DoReMi",
-"ichimatsu-matsuno": "松野一松"
+"ichimatsu-matsuno": "松野一松",
+"ubel": "尤贝尔",
+"takeru taiga": "大河武",
+"ikoma": "生驹"
 },
 "f": {
 "age progression": "年龄增长",
@@ -29443,7 +29451,7 @@
 "teisoku sonic": "低速ソニック",
 "teito bouei ryodan": "帝都防衛旅団",
 "teketo": "TEKETO",
-"tekireiki ni shokuchuudoku": "適齢期に食中毒",
+"tekireiki ni shokuchuudoku": "适龄期に食中毒",
 "tekitou": "適当",
 "tekkamaki": "鉄華巻",
 "tekken dynamite": "鉄拳ダイナマイト",
@@ -30996,7 +31004,8 @@
 "noir auto": "ノワールオート",
 "yuuki saien": "ユーキ菜園",
 "ginshio honpo": "銀しお本舗",
-"kitsune no nijibiya": "狐の虹火屋"
+"kitsune no nijibiya": "狐の虹火屋",
+"juubako seisakujo": "重箱製作所"
 },
 "l": {
 "afrikaans": "南非语",
