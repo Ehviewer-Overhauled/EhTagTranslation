@@ -1201,7 +1201,7 @@
 "amatarou": "天太郎",
 "aoi hitori": "葵ヒトリ",
 "aoten": "青点",
-"clone ningen": "clone人間",
+"clone ningen": "clone人间",
 "dowman sayman": "道满晴明",
 "kagura moromi": "神楽もろみ",
 "mikaze takashi": "水风天",
@@ -1501,7 +1501,7 @@
 "minagiku": "みなぎく",
 "landolt tamaki": "ランドルトたまき",
 "kisaragi miyu": "如月みゆ",
-"igumox": "井雲くす",
+"igumox": "井云くす",
 "kuune rin": "くうねりん",
 "goto-beido": "ゴト・ベイドー",
 "morikura en": "森仓圆",
@@ -2248,7 +2248,7 @@
 "kirihara you": "桐原湧",
 "mdakoki": "M田K樹",
 "ooyoko yamaame": "大横山饴",
-"ryokuchaism": "绿茶イズム",
+"ryokuchaism": "緑茶イズム",
 "shiden akira": "しでん晶",
 "soborogo": "ソボロゴ",
 "syoukaki": "消火器",
@@ -8908,7 +8908,7 @@
 "oboroduki yamiya": "朧月闇夜",
 "oborotsuki kakeru": "朧月カケル",
 "obyaa": "おびゃー",
-"ocha": "おちゃ",
+"ocha": "お茶",
 "ochatan": "おちゃたん",
 "ochatsumi": "オチャツミ",
 "ochi ai": "越智愛",
@@ -12773,7 +12773,11 @@
 "yaruku": "ヤルク",
 "jeattle": "ジアトー",
 "yoshio ereki": "よしおエレキ",
-"ueda metawo": "上田メタヲ"
+"ueda metawo": "上田メタヲ",
+"ematsuko": "エマツコ",
+"kimineko": "君ねこ",
+"toono esuke": "远野えすけ",
+"ozu satoru": "を图さとる"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -17688,16 +17692,16 @@
 "wien margarete": "维恩·玛格丽特",
 "shellin burgundy": "谢林·勃艮第",
 "levi ackerman": "利威尔·阿克曼",
-"makoto-tachibana": "橘真琴",
 "belldandy": "贝露丹蒂",
 "karamatsu matsuno": "松野空松",
 "onpu segawa": "濑川音符",
 "doremi harukaze": "春风DoReMi",
-"ichimatsu-matsuno": "松野一松",
+"ichimatsu matsuno": "松野一松",
 "ubel": "尤贝尔",
 "takeru taiga": "大河武",
 "ikoma": "生驹",
-"juufuutei raden": "儒乌风亭螺钿"
+"juufuutei raden": "儒乌风亭螺钿",
+"chitose kisaragi": "如月千岁"
 },
 "f": {
 "age progression": "年龄增长",
@@ -29454,7 +29458,7 @@
 "teisoku sonic": "低速ソニック",
 "teito bouei ryodan": "帝都防衛旅団",
 "teketo": "TEKETO",
-"tekireiki ni shokuchuudoku": "适龄期に食中毒",
+"tekireiki ni shokuchuudoku": "適齢期に食中毒",
 "tekitou": "適当",
 "tekkamaki": "鉄華巻",
 "tekken dynamite": "鉄拳ダイナマイト",
@@ -31009,7 +31013,10 @@
 "ginshio honpo": "銀しお本舗",
 "kitsune no nijibiya": "狐の虹火屋",
 "juubako seisakujo": "重箱製作所",
-"mandara ryuuseigun": "マンダラ流星群"
+"mandara ryuuseigun": "マンダラ流星群",
+"chimimou land": "ちみもうらんど",
+"neyagurui": "ねやぐるい",
+"tsurutsuru udon club": "ツルツルおうどん俱乐部"
 },
 "l": {
 "afrikaans": "南非语",
@@ -31728,6 +31735,7 @@
 "caption": "说明文字",
 "rough grammar": "语法差",
 "rough translation": "渣翻",
+"kodomo only": "仅儿童",
 "nudity only": "仅裸体",
 "no penetration": "无插入"
 },
@@ -33943,7 +33951,8 @@
 "helluva boss": "极恶老大",
 "power pack": "超能小队",
 "the amazing digital circus": "神奇数字马戏团",
-"night shift nurses": "夜勤病栋"
+"night shift nurses": "夜勤病栋",
+"library of ruina": "废墟图书馆"
 },
 "r": {
 "doujinshi": "同人志",
