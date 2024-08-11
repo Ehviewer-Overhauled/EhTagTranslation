@@ -12245,7 +12245,7 @@
 "fellatrix": "fellatrix",
 "bone hiko": "骨彦",
 "yuzuhara moke": "柚原もけ",
-"eryu": "えりゅ",
+"onigashima eryu": "鬼ヶ島えりゅ",
 "micosivaa": "神輿葉",
 "doritoru": "どりとる",
 "nagina": "なぎな",
@@ -12674,7 +12674,6 @@
 "nyaon": "にゃおん",
 "fuugetsu makoto": "楓月誠",
 "rebutsu": "りぶつ",
-"choi moz": "ちょいもず",
 "miyazaki usagi": "みやざきうさぎ",
 "touchuu kasou": "冬虫夏草",
 "cbmus": "Cbmus",
@@ -12969,7 +12968,18 @@
 "nanohana": "nanohana",
 "kamogawa akira": "鴨川彰",
 "ame no machi": "雨の町",
-"mukone": "むこね"
+"mukone": "むこね",
+"tappa suzuki": "タッパー鈴木",
+"tom smith": "Tom Smith",
+"bryam": "Bryam",
+"yair": "Yair",
+"kadath": "Kadath",
+"viktria": "Zummeng",
+"the-shadow-of-light": "The-Shadow-of-Light",
+"ono miren": "小野未練",
+"deer kid": "Deerkid",
+"onaka": "ONAKA",
+"ushikani gassen": "牛蟹合戦"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -13076,7 +13086,8 @@
 "caomeiyuyi": "草莓羽衣",
 "purinpuppy": "屿鱼",
 "makachan": "麻花酱",
-"shimizu yuno": "清水由乃"
+"shimizu yuno": "清水由乃",
+"tomoyo jiang": "Tomoyo酱"
 },
 "c": {
 "alice": "爱丽丝",
@@ -14493,7 +14504,7 @@
 "gran": "格兰",
 "io": "伊欧",
 "lyria": "露莉亚",
-"katalina": "卡塔莉娜",
+"katalina aryze": "卡塔莉娜·亚利洁",
 "narmaya": "娜尔梅亚",
 "rosetta": "萝赛塔",
 "sturm": "斯特姆",
@@ -15340,7 +15351,7 @@
 "king": "琼",
 "dark magician girl": "黑魔术少女",
 "silent magician": "沉默魔术师",
-"marcille donato": "玛露西露",
+"marcille donato": "玛露西尔",
 "fumina hoshino": "星野文奈",
 "angela balzac": "安吉拉·巴尔扎克",
 "yanagi takayama": "高山柳",
@@ -18118,7 +18129,19 @@
 "saint cecilia": "塞西莉亚",
 "sona buvelle": "娑娜·布维尔",
 "dokibird": "Dokibird",
-"navia caspar": "娜维娅·卡萨帕"
+"navia caspar": "娜维娅·卡萨帕",
+"shizuru kousaka": "高坂静流",
+"krystal": "克莉斯塔尔",
+"fox mccloud": "火狐·麦克劳德",
+"wolf odonnell": "沃尔夫·欧唐纳",
+"falco lombardi": "法尔科·兰巴帝",
+"panther caroso": "巴萨·卡尔罗兹",
+"peppy hare": "派比·海尔",
+"slippy toad": "史利比·陶德",
+"laios thorden": "莱欧斯",
+"chilchuck tims": "齐尔查克",
+"senshi": "森西",
+"jing yuan": "景元"
 },
 "f": {
 "age progression": "年龄增长",
@@ -31503,7 +31526,10 @@
 "negiyashiki": "ねぎやしき",
 "yorutake": "よるたけ",
 "kawasu shuppan": "川洲出版",
-"mukoneya": "むこね屋"
+"mukoneya": "むこね屋",
+"lilith": "莉莉丝",
+"blacknwhite": "BlackNWhite",
+"torunitaranai": "とるにたらない"
 },
 "l": {
 "afrikaans": "南非语",
@@ -31751,6 +31777,7 @@
 "brain fuck": "脑交",
 "cockslapping": "屌掴",
 "crown": "王冠",
+"ear fuck": "耳交",
 "elf": "精灵‍♂️",
 "facesitting": "坐脸",
 "facial hair": "胡子",
@@ -31924,6 +31951,7 @@
 "animegao": "头壳",
 "apron": "围裙",
 "bandages": "绷带",
+"bandaid": "创可贴",
 "bike shorts": "自行车短裤",
 "bikini": "比基尼",
 "bloomers": "布鲁马",
@@ -32223,8 +32251,9 @@
 "rough grammar": "语法差",
 "rough translation": "渣翻",
 "kodomo only": "仅儿童",
+"no penetration": "无插入",
 "nudity only": "仅裸体",
-"no penetration": "无插入"
+"object insertion only": "仅物体插入"
 },
 "p": {
 "original": "原创",
