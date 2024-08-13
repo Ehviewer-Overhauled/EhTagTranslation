@@ -2869,7 +2869,7 @@
 "hirune": "昼寝",
 "nanatsuda": "七ツ田",
 "fun bo": "ふんぼ",
-"siseki hirame": "芝石",
+"siseki hirame": "芝石ひらめ",
 "nattou mazeo": "納豆まぜお",
 "yamago": "山后",
 "hamon ai": "波纹爱",
@@ -8094,7 +8094,7 @@
 "mm": "えむえむ",
 "mmmnomu": "むむむのム",
 "mnk": "MNK",
-"mo": "もっさん",
+"mo": "も",
 "moai tentyou": "モアイ店長",
 "moccyi": "モッチィー",
 "mochi ice": "もちアイス",
@@ -12983,7 +12983,16 @@
 "yoruneko": "夜猫",
 "gotarou": "ゴ太郎",
 "ion": "伊翁",
-"sanukiyan": "さぬきやん"
+"sanukiyan": "さぬきやん",
+"tsukisiro": "月代",
+"kunabishi": "くなびし",
+"furau": "ふらう",
+"kurokawa ryoichi": "黒川リョーイチ",
+"chinton": "チントン",
+"saiou ga ushi": "塞翁が牛",
+"inumiso": "イヌミソ",
+"cosmic": "こずみっく",
+"kagamino mochiko": "鏡乃もちこ"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -18151,7 +18160,8 @@
 "kento nanami": "七海建人",
 "nagusa goryou": "御稜名草",
 "utaha shiraishi": "白石咏叶",
-"namari": "娜玛莉"
+"namari": "娜玛莉",
+"sumika shiun": "紫云清夏"
 },
 "f": {
 "age progression": "年龄增长",
@@ -31542,7 +31552,12 @@
 "torunitaranai": "とるにたらない",
 "shinya koubou": "深夜工房",
 "aruminikarubi": "あるみにカルビ",
-"slime no kanmuri": "すらいむのかんむり"
+"slime no kanmuri": "すらいむのかんむり",
+"ohanabatake": "御花畑",
+"penguin senbanchi": "ペンギン千番地",
+"furashirushi": "ふら印",
+"ushikani gassen": "牛蟹合戦",
+"tsukuten": "つくてん"
 },
 "l": {
 "afrikaans": "南非语",
@@ -34498,7 +34513,8 @@
 "girls band cry": "少女哭泣乐队",
 "helldivers": "绝地潜兵",
 "tokidoki bosotto russia-go de dereru tonari no aalya-san": "不时轻声地以俄语遮羞的邻座艾莉同学",
-"cross core": "交错战线"
+"cross core": "交错战线",
+"seitokai ni mo ana wa aru": "脑洞学生会"
 },
 "r": {
 "doujinshi": "同人志",
