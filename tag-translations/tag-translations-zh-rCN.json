@@ -2426,7 +2426,7 @@
 "kanekiyo miwa": "兼清みわ",
 "gayarou": "☆画野朗",
 "yashiro seika": "八城惺架",
-"tokiwa midori": "常磐緑",
+"tokiwa midori": "常磐绿",
 "tsubaki jushirou": "椿十四郎",
 "tukinowagamo": "月ノ輪ガモ",
 "uron rei": "ウーロン・レイ",
@@ -7093,7 +7093,7 @@
 "kosuzu": "小鈴",
 "kota": "耕太 | コタ | こた(炬太郎) | kota´",
 "kotaru": "瑚樽",
-"kotatsu": "虎龍",
+"kotatsu": "虎龍(小龍)",
 "kotatsu tomodachi": "コタツトモダチ",
 "koto": "koto",
 "kotobuki": "kotobuki",
@@ -13071,7 +13071,11 @@
 "urasuji samurai": "裏筋侍",
 "enomoto nao": "榎本尚",
 "kamo naberou": "加茂なべ郎",
-"hanakage alt": "花影あると"
+"hanakage alt": "花影あると",
+"clara.v": "clara鳴晴",
+"shipuoru": "しぷおる",
+"mochiji": "モチヂ",
+"mushipan": "むしパン"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -18387,7 +18391,8 @@
 "lycanroc": "鬃岩狼人",
 "angol moa": "安格尔·摩亚",
 "temari tsukimura": "月村手毬",
-"futaba igarashi": "五十岚双叶"
+"futaba igarashi": "五十岚双叶",
+"wanderer": "流浪者"
 },
 "f": {
 "age progression": "年龄增长",
