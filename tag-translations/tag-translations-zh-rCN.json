@@ -3503,7 +3503,7 @@
 "saitom": "斋藤将嗣",
 "komi zumiko": "コミズミコ",
 "kawakami masaki": "川上真树",
-"hizuki akira": "绯月Akira",
+"hizuki akira": "緋月アキラ",
 "cream cod": "奶油鳕鱼",
 "yasuyuki": "やすゆき",
 "hisama kumako": "ひさまくまこ",
@@ -13263,7 +13263,8 @@
 "motsunuki": "もつぬき",
 "nakamori ai": "中森 愛",
 "goto kasumi": "五藤加純",
-"harenochi sakana": "晴のちsakana"
+"harenochi sakana": "晴のちsakana",
+"echihiro": "えちひろ"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -17755,13 +17756,13 @@
 "hk416": "HK416 | 可露凯",
 "dsr-50": "DSR-50",
 "ots-14": "OTs-14 | 闪电",
-"p90": "P90",
+"p90": "P90 | 米蒂尔",
 "wa2000": "WA2000 | 玛绮朵",
 "pa-15": "PA-15 | 芙洛伦",
 "agent": "代理人",
 "welrod mkii": "维尔德MkⅡ",
-"ak-12": "AK-12",
-"an-94": "AN-94",
+"ak-12": "AK-12 | 露契娅",
+"an-94": "AN-94 | 安提娅",
 "kalina": "格琳娜",
 "ump45": "UMP45 | 莱娅",
 "vsk-94": "VSK-94",
@@ -17802,9 +17803,9 @@
 "st ar-15": "ST AR-15",
 "m4a1": "M4A1",
 "m4 sopmod ii": "M4 SOPMODII",
-"m16a1": "M16A1",
-"ak-15": "AK-15",
-"rpk-16": "RPK-16",
+"m16a1": "M16A1 | 白烨戈",
+"ak-15": "AK-15 | 艾尔文",
+"rpk-16": "RPK-16 | 蕾娜特",
 "nagant revolver": "纳甘左轮 | 纳甘",
 "colt revolver": "柯尔特左轮",
 "super-shorty": "超级肖蒂",
@@ -18806,7 +18807,8 @@
 "mao arimura": "有村麻央",
 "soldier 11": "11号",
 "alexandrina sebastiane": "亚历山德丽娜·莎芭丝缇安",
-"maizuru": "舞鹤"
+"maizuru": "舞鹤",
+"yanagi tsukishiro": "月城柳"
 },
 "f": {
 "age progression": "年龄增长",
@@ -32348,7 +32350,9 @@
 "benimaru suisan": "べにまる水産",
 "sakurarium": "サクラリウム",
 "soranekoyohou": "そらねこよほう",
-"motsunuki hormone": "もつぬきほるもん"
+"motsunuki hormone": "もつぬきほるもん",
+"teikuu ms combo": "低空MSコンボ",
+"katakori youtsuu dry eye": "肩こり腰痛ドライアイ"
 },
 "l": {
 "afrikaans": "南非语",
