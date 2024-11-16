@@ -3452,7 +3452,7 @@
 "88": "88",
 "toujou tsukushi": "東條土筆",
 "yamada gogogo": "山田ゴゴゴ",
-"g-wara": "爺わら",
+"g-wara": "爺わら/ねいび",
 "ibarame hisa": "茨芽ヒサ",
 "aoyama kiiro.": "あおやまきいろ。",
 "ushiro muki": "丑露ムキ",
@@ -12014,7 +12014,7 @@
 "styx": "STYX",
 "takamiya hairi": "たかみやはいり",
 "tinmeshi": "珍飯",
-"utatane": "うたたね",
+"utatane": "ウタタネ",
 "tomodachi": "Tomodachi",
 "puracotte": "Puracotte＊ぷらこ",
 "tsuyuhisa fumi": "露久ふみ",
@@ -13296,7 +13296,12 @@
 "mutagawa": "無田川",
 "hiiragi ringo": "柊林檎",
 "yozora shiba": "夜空柴",
-"asane ken": "朝寝ケン"
+"asane ken": "朝寝ケン",
+"sawa yuzu": "砂和ゆず",
+"nikumen": "肉メン",
+"tokowan": "とこわん",
+"3huro": "ひげた",
+"higeta": "ひげた"
 },
 "cos": {
 "otohara an": "乙原あん",
@@ -18850,7 +18855,8 @@
 "shouya ishida": "石田將也",
 "yuzuru nishimiya": "西宫结弦",
 "sayo minakami": "水神小夜",
-"kaoruko tenkawa": "天川薰子"
+"kaoruko tenkawa": "天川薰子",
+"zenjuubou sugitani": "杉谷善住坊"
 },
 "f": {
 "age progression": "年龄增长",
@@ -28871,7 +28877,7 @@
 "psycodelicious": "PSYCODELICIOUS",
 "ptd": "PTD",
 "ptislands": "ptislands",
-"public planet": "ぱぶりっくぷらねっと",
+"public planet": "Public Planet",
 "pucchies": "ぷっち~ず",
 "pucchu": "ぷっちゅ",
 "puchi momo club": "ぷちもも倶楽部",
@@ -32415,7 +32421,8 @@
 "banana style": "ばななすたいる",
 "sugarmilk": "SugarMilk",
 "alma": "ALMA=リンゴ",
-"orbit": "Orbit"
+"orbit": "Orbit",
+"noa no hakobune": "ノアの方舟"
 },
 "l": {
 "afrikaans": "南非语",
